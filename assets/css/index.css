@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://www.pptgrounds.com/wp-content/uploads/2018/04/Design-Quotes-Powerpoint.jpg);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    padding:100px;
+}
+    
+#newQuotes {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: black;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+}
+
+#byQuotes {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: red;
+    padding-left: 140px;
+    padding-right: 140px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+#intro {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    padding-top: 100px;
+    border-bottom: 1px;
+    float: center;
+}
+
+
+button {
+    text-align: center;
+}
+
+
+.btn-primary {
+    background-color: #D70617;
+    border-color: #F05F44;
+}
+
+.btn-primary:hover {
+    background-color: #FC0404;
+    border-color: #fff;
+
+}

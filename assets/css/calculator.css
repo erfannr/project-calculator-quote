@@ -1,0 +1,11 @@
+.center {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://previews.123rf.com/images/pookgreen/pookgreen1501/pookgreen150100256/35714761-number-keypad-of-a-calculator-on-white-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    padding: 150px;
+}
